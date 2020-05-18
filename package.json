@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://yinglung174.github.io/personalized-music-box",
+  "homepage": "https://yinglung174.github.io/Personalized-Music-Box/",
   "dependencies": {
     "@material-ui/core": "4.6.1",
     "@material-ui/icons": "4.5.1",
