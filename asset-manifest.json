@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/personalized-music-box/static/js/main.483c94e4.chunk.js",
+    "main.js.map": "/personalized-music-box/static/js/main.483c94e4.chunk.js.map",
+    "runtime-main.js": "/personalized-music-box/static/js/runtime-main.d496266d.js",
+    "runtime-main.js.map": "/personalized-music-box/static/js/runtime-main.d496266d.js.map",
+    "static/css/2.6943d46a.chunk.css": "/personalized-music-box/static/css/2.6943d46a.chunk.css",
+    "static/js/2.d1dd59df.chunk.js": "/personalized-music-box/static/js/2.d1dd59df.chunk.js",
+    "static/js/2.d1dd59df.chunk.js.map": "/personalized-music-box/static/js/2.d1dd59df.chunk.js.map",
+    "index.html": "/personalized-music-box/index.html",
+    "precache-manifest.1ef3bf79a0048312cb25280993814c4e.js": "/personalized-music-box/precache-manifest.1ef3bf79a0048312cb25280993814c4e.js",
+    "service-worker.js": "/personalized-music-box/service-worker.js",
+    "static/css/2.6943d46a.chunk.css.map": "/personalized-music-box/static/css/2.6943d46a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d496266d.js",
+    "static/css/2.6943d46a.chunk.css",
+    "static/js/2.d1dd59df.chunk.js",
+    "static/js/main.483c94e4.chunk.js"
+  ]
+}
